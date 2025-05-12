@@ -1,0 +1,9 @@
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/bin/Debug/MathLibraryTest.exe
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/bin/Debug/MathLibraryTest.pdb
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/bin/Debug/MathLibrary.dll
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/bin/Debug/MathLibrary.pdb
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/obj/Debug/MathLibraryTest.csproj.AssemblyReference.cache
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/obj/Debug/MathLibraryTest.csproj.CoreCompileInputs.cache
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/obj/Debug/MathLibraryTest.csproj.CopyComplete
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/obj/Debug/MathLibraryTest.exe
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibraryTest/obj/Debug/MathLibraryTest.pdb

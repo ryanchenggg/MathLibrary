@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5A726C86-72DB-43C2-A9FA-C73A639A7B11}|Default">
+  <MonoDevelop.Ide.ItemProperties.MathLibraryTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MathLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="MathLibrary/MathOperations.cs" Line="11" Column="10" />
+      <File FileName="MathLibraryTest/Program.cs" Line="18" Column="1" />
+      <File FileName="README.md" Line="23" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathLibrarySolution" expanded="True">
+            <Node name="MathLibrary" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

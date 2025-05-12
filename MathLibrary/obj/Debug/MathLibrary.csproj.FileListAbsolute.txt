@@ -1,0 +1,6 @@
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/bin/Debug/MathLibrary.dll
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/bin/Debug/MathLibrary.pdb
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/obj/Debug/MathLibrary.csproj.AssemblyReference.cache
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/obj/Debug/MathLibrary.csproj.CoreCompileInputs.cache
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/obj/Debug/MathLibrary.dll
+/Users/ryansmbp/Projects/MathLibrarySolution/MathLibrary/obj/Debug/MathLibrary.pdb
